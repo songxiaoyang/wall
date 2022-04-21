@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: 一生所求，爱与自由！ —— 洋少
+subtitle: 一生所求，爱与自由
+description: 一生所求，爱与自由
 keywords:
 author: John Doe
-language:
+language: 
 timezone:
 
 # URL
@@ -73,7 +73,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+# theme: zhaoo
+theme: cafe
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

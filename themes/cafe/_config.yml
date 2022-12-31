@@ -23,7 +23,8 @@ social:
   email: '940604023@qq.com'
 
 # WeChat 微信公众号二维码url
-wechat_url: http://124.220.167.166:8081/i/2022/04/21/62617120d5d59.jpg ## 启用wechat widget才会生效
+# wechat_url: http://124.220.167.166:8081/i/2022/04/21/62617120d5d59.jpg ## 启用wechat widget才会生效
+wechat_url: /images/wechat.jpg ## 启用wechat widget才会生效
 
 
 # Friendly links 友情链接

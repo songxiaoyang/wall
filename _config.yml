@@ -81,3 +81,12 @@ theme: cafe
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+#Extensions
+plugins:
+    hexo-generator-feed
+#Feed Atom
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
